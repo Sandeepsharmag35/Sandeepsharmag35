@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandeepsharmag35
 - 👀 I’m interested in Tech and Gaming
-- 🌱 I’m currently learning JAVA and php.
+- 🌱 I’m a Python / Django Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
